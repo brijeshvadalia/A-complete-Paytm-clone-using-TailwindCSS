@@ -46,7 +46,7 @@
 
 
 # HERE IS THE PREVIEW HOW THIS PROJECT LOOKS😍
-<!-- ># [LIVE [HOSTED] PROJECT LINK](https://brijesh8128-live-class-project-15.netlify.app/ "Project-15-Netlify") -->
+># [LIVE [HOSTED] PROJECT LINK](https://brijesh8128-paytm-clone.netlify.app/ "Paytm-clone-Netlify")
 >![Screenshot](./screenshot/screenshot-1.png)
 >![Screenshot](./screenshot/screenshot-2.png)
 >![Screenshot](./screenshot/screenshot-3.png)
